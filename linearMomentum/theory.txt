@@ -1,0 +1,12 @@
+Momento linear (p) ou quantidade de movimento (Q) é uma grandeza definida como sendo o produto da massa do corpo pela velocidade dele - e tratando a velocidade na sua natureza vetorial e, portanto, a quantidade de movimento também é uma grandeza vetorial. 
+
+É um vetor que é paralelo ao vetor velocidade - possui mesma direção e mesmo sentido, uma vez que ele é o resultado do produto do vetor velocidade por uma massa, que sempre será um valor positivo (e é um grandeza escalar). Se a massa for 1, então ele terá o mesmo tamanho que o vetor velocidade (apenas curiosidade). A unidade de medida dela no Sistema Internacional de Unidades de Medida (S.I) é de kg * m/s, sem ter um nome especial.
+
+Batizamos a grandeza impulso como sendo o produto de uma força constante pelo intervalo de tempo em que ela foi aplicada. Ela é o produto de uma grandeza vetorial por uma escalar, então ela é um vetor, e possui a mesma direção e sentido que o vetor força, visto que o tempo é sempre positivo. 
+
+Sintetizando: é uma grandeza vetorial e tem mesma direção e sentido que o vetor força, e é medida em N * s no S.I - só que como newton é kg * m / s², podemos dizer que ela é medida em kg * m / s² * s, ficando kg * m / s, que é a mesma unidade de quantidade de movimento. Quantidade de movimento e impulso possuem mesma unidade, e isso é um indício que talvez possamos somar essas duas grandezas - existe uma conexão entre elas.
+
+
+
+
+
