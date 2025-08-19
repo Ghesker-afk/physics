@@ -1,0 +1,9 @@
+A reflexão é um fenômeno no qual a onda retorna ao meio de origem. Podemos analisar como esse fenômeno se apresenta em uma onda transversal em uma corda - lembrando que uma onda transversal é aquela em que a direção da vibração é perpendicular à direção de propagação.  
+
+No caso de uma onda se propagando em uma corda com um ponto fixo, a reflexão vai acontecer com inversão de fase, e isso significa que onde havia crista vai passar a ter vale, e vice-versa. Isso porque o ponto fixo vai devolver a força na corda (3ª lei de Newton) no sentido oposto - ou pra cima, ou pra baixo. Lembrando: isso acontece quando a extremidade é fixa.
+
+Se o ponto não for fixo, então a corda vai conseguir puxar o ponto pra cima ou para baixo, o que significa que em caso de extremidade livre (ponto podendo se deslocar), não acontece inversão de fase - onde é crista continua sendo crista, e onde é vale continua sendo vale.
+
+Para outras ondas, o fenômeno da reflexão é exatamente o mesmo da óptica geométrica - as ondas vão colidir contra um anteparo, e vão voltar a propagar no meio de origem, tendo o ângulo de reflexão com a normal sendo igual ao ângulo de incidência. Em outras palavras, o pulso refletido forma o mesmo ângulo com a normal que o pulso incidente.
+
+Os raios incidente, refletido e normal são coplanares - estão contidos todos em um mesmo plano -, e o ângulo de incidência é igual ao ângulo de reflexão. O comprimento de onda não se altera, vale dizer. A única diferença é que no trato da ondulatória utilizamos mais a notação de frentes de onda, ao contrário da óptica, em que utilizamos mais raios de onda.
