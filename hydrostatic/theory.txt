@@ -1,0 +1,16 @@
+A densidade de um corpo é uma grandeza escalar batizada como sendo o resultado da divisão da massa pelo volume de um corpo, e no S.I é medida em kg / m³, apesar de ser muito comum ela ser abordada em g / cm³. Saiba que 1 g/cm³ equivalem a 1000 kg/m³. 
+
+A densidade basicamente mede o quanto de massa que cabe num certo volume - se um material é denso, significa que cabe muita massa em pouco volume. Se dois materiais são comparados a uma mesma massa, o material que é dito menos denso ocupa um maior volume entre os dois.
+
+Quando falamos em densidade, levamos em consideração todo o volume do corpo, enquanto que quando falamos de massa específica (outra grandeza), leva-se em consideração apenas a parte maciça (o volume que tem matéria) do corpo. Só há diferença entre as grandezas para corpos que não são maciços - que são ocos.
+
+A densidade é uma propriedade da substância, do material - se aumentar o tamanho do objeto, você aumenta proporcionalmente o volume, de modo que a densidade resulta na mesma. O mesmo vale para a massa específica.
+
+Se estamos estudando a Hidrostática, então estamos basicamente analisando como corpos parados se comportam quando imersos em um fluído (geralmente, líquido) - quais são as forças que atuam sobre eles, e como que elas se cancelam para que o corpo se mantenha estático. 
+
+O empuxo, por exemplo, é uma força que surge a partir da diferença de pressão em um corpo - a pressão abaixo dele sempre será maior do que a pressão distribuída pela porção de cima dele, visto que quanto maior a profundidade, maior é a pressão. Como o corpo não está acelerando, o empuxo é igual ao peso do corpo - a força resultante das forças é zero.
+
+Para o líquido que pressiona o corpo imerso - o líquido que gera a diferença de pressão e, portanto, a força de sustentação que surge -, não existe diferença se o corpo é um líquido, ou se é sólido. A distribuição de pressões será exatamente à mesma, independente do objeto/tipo de objeto.
+
+O empuxo arquimediano é uma força de sustentação que se manifesta num corpo imerso num fluído. Seu módulo é igual ao peso da quantidade de fluido que foi deslocado, e podemos substituir a massa da equação do peso pela densidade e volume do fluído, ficando que o empuxo é igual ao produto da densidade do fluído, pelo volume deslocado pelo objeto (que é o volume de fluído deslocado) pela gravidade. Lembrando, o volume de fluido deslocado é o volume do corpo imerso no fluido. 
+
