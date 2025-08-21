@@ -29,3 +29,32 @@ func CalculateMagneticForce(magneticField, charge, velocity, angle float64) floa
 
 	return magneticField * charge * velocity * math.Sin(angle)
 }
+
+// Parâmetros:
+//   mass: a massa da partícula (m) em kg
+//   velocity: a velocidade da partícula     (v) em m/s
+//   charge: a carga da partícula (q) em C
+//   magneticField: o módulo do campo magnético (B) em T
+
+func CalculateCircularRadius(mass, velocity, charge, magneticField float64) float64 {
+	if charge == 0 || magneticField == 0 {
+		return 0
+	}
+
+	// o uso de math.Abs(charge) é para garantir que o raio sempre seja positivo.
+
+	return (mass * velocity) / (math.Abs(charge) * magneticField)
+}
+
+// Parâmetros:
+// mass: a massa da partícula (m) em kg
+// charge: a carga da partícula (q) em C
+// magneticField: o módulo do campo magnético (B) em T
+
+func CalculatePeriod(mass, charge, magneticField float64) float64 {
+	if charge == 0 || magneticField == 0 {
+		return 0
+	}
+
+	return (2 * math.Pi * mass) / (math.Abs(charge) * magneticField)
+}
