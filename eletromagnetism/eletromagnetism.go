@@ -58,3 +58,22 @@ func CalculatePeriod(mass, charge, magneticField float64) float64 {
 
 	return (2 * math.Pi * mass) / (math.Abs(charge) * magneticField)
 }
+
+// Parâmetros:
+// magneticField: o módulo do campo magnético (B) em T
+// current: a corrente elétrica no fio (i) em A
+// length: o comprimento do fio imerso no campo (L) em m
+// angle: o ângulo em radianos entre o fio e o campo magnético
+
+func CalculateWireForce(magneticField, current, length, angle float64) float64 {
+	if magneticField == 0 || current == 0 || length == 0 {
+		return 0
+	}
+
+	sinTheta := math.Sin(angle)
+	if sinTheta == 0 {
+		return 0
+	}
+
+	return magneticField * current * length * sinTheta
+}
