@@ -3,3 +3,19 @@ Uma carga elétrica em movimento interage com o campo magnético. Para o corpo i
 A força magnética é nula (zero) quando: o corpo não possui carga, se o corpo estiver em repouso, se a velocidade do corpo tiver a mesma direção do campo magnético (quando o ângulo entre o campo magnético e a velocidade da partícula é igual a 0° ou 180° - 180° quando eles possuem mesma direção e sentidos opostos, e 0° quando possuem mesma direção e sentido), e se o campo magnético é nulo (B = 0). Todos esses pontos são constatados através de experimentos.
 
 Uma equação que nos possibilita calcular a força magnética é tal que sintetiza os resultados dos experiemntos destacados acima, e ela é escrita como sendo: o módulo da força magnética é dado pelo produto de quatro termos que resumem o experimento, que são a carga do corpo (q), a velocidade do corpo (v), o módulo do campo magnético (B) e o seno do ângulo formado entre a velocidade do corpo e do campo magnético (seno de 0 e de 180 valem 0). 
+
+A força magnética é sempre perpendicular à velocidade do movimento e ao campo magnético. Ela não realiza trabalho, já que é sempre perpendicular ao movimento. Para determinarmos para onde a força aponta (direção e sentido), usamos a regra do tapa.
+
+Na regra do tapa, temos que alinhar o nosso dedão de acordo com a direção do movimento (velocidade) e os demais dedos de acordo com o sentido do campo magnético. Para onde o tapa for, será a direção e o sentido da força magnética. Em outras palavras: com a mão direita, oriente o polegar alinhado com a velocidade da partícula e o indicador e demais dedos no sentido do campo magnético. A força magnética terá o sentido do tapa: com a palma da mão para carga positiva, e com as costas da mão para carga negativa.
+
+Uma bolinha com um pontinho representa um vetor que está saindo do plano, enquanto que uma bolinha com um x indica um vetor que está entrando no plano - como se o vetor fosse uma flecha, imagine que quando ele está saindo do plano você está vendo a pontinha da flecha, e quando ele está entrando dentro do plano você vê as costas da flecha parecido com um x.
+
+Se uma partícula é lançada paralela ao campo magnético (ângulo entre a velocidade e o campo magnético de 0 ou 180°), então o movimento da partícula segue em M.R.U (força resultante = 0). No caso de uma partícula em repouso, ela permanece em repouso (a força resultante também será zero). Ambas as situações respeitam a Primeira Lei de Newton.
+
+Quando a partícula é lançada perpendicularmente ao campo magnético (ângulo entre a velocidade e o campo magnético é de 90°), o movimento descrito pela partícula é um M.C.U, com a força magnética apontando para o centro da circunferência. Neste caso, a força magnética atua como resultante centrípeta.
+
+Sabendo que a força magnética é a resultante centrípeta, podemos abrir as duas equações e isolarmos a velocidade. Ao fazer isso, perceberemos que ela depende da massa e da velocidade do corpo, do raio da circunferência e do campo magnético - mas, se o campo magnético é uniforme, basicamente nenhuma dessas grandezas se altera. 
+
+Como conclusão, sabemos que a velocidade é uniforme, e é por isso que é um M.C.U. É comum também isolarmos o raio da trajetória e formar a equação que nos fornece o período (sabendo que é um M.C.U, podemos usar o bom e velho D = v.t).
+
+Se a partícula for lançada obliquamente (nem paralela e nem perpendicular), teremos uma composição de um M.C.U com um M.R.U, e a partícula vai descrever uma trajetória helicoidal (como uma espiral de caderno). A componente da velocidade que é paralela ao campo descreve um M.R.U, enquanto que a componente da velocidade perpendicular ao campo descreve um M.C.U, e a superposição delas resulta num movimento helicoidal.
