@@ -1,2 +1,5 @@
 Uma carga elétrica em movimento interage com o campo magnético. Para o corpo interagir com o campo magnético, portanto, ele precisa ter carga (não pode ser neutro) e tem que estar em movimento (não pode estar em repouso). 
 
+A força magnética é nula (zero) quando: o corpo não possui carga, se o corpo estiver em repouso, se a velocidade do corpo tiver a mesma direção do campo magnético (quando o ângulo entre o campo magnético e a velocidade da partícula é igual a 0° ou 180° - 180° quando eles possuem mesma direção e sentidos opostos, e 0° quando possuem mesma direção e sentido), e se o campo magnético é nulo (B = 0). Todos esses pontos são constatados através de experimentos.
+
+Uma equação que nos possibilita calcular a força magnética é tal que sintetiza os resultados dos experiemntos destacados acima, e ela é escrita como sendo: o módulo da força magnética é dado pelo produto de quatro termos que resumem o experimento, que são a carga do corpo (q), a velocidade do corpo (v), o módulo do campo magnético (B) e o seno do ângulo formado entre a velocidade do corpo e do campo magnético (seno de 0 e de 180 valem 0). 
