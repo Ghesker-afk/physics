@@ -2,6 +2,10 @@ package eletromagnetism
 
 import "math"
 
+// É a permeabilidade magnética do vácuo, uma constante que leva em conta algumas propriedades magnéticas.
+
+const MagneticPermeabilityOfVacuum = 4 * math.Pi * 1e-7
+
 // Para um corpo interagir com um campo
 // magnético, ele precisa ter carga e estar
 // em movimento (v # 0 e q # 0).
@@ -76,4 +80,22 @@ func CalculateWireForce(magneticField, current, length, angle float64) float64 {
 	}
 
 	return magneticField * current * length * sinTheta
+}
+
+// Parâmetros:
+//  float64 current: a corrente elétrica (i) em amperes (A)
+//  float64 distance: a distância (r) do ponto em questão até o fio.
+
+// Retorna:
+//  float64: a intensidade do campo magnético (B) em Teslas (T).
+
+func CalculateMagneticFieldForWire(current, distance float64) float64 {
+	if distance <= 0 {
+		return 0.0
+	}
+
+	numerator := MagneticPermeabilityOfVacuum * current
+	denominator := 2 * math.Pi * distance
+
+	return numerator / denominator
 }
