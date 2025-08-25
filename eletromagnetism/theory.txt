@@ -34,6 +34,12 @@ Para uma espira circular (que é como se fosse um fio adequado ao formato de uma
 
 A espira circular funciona realmente como um imã, podendo até existir atração ou repulsão entre um imã e uma espira, dependendo do alinhamento dos polos norte e sul. O módulo do campo magnético no centro da espira é dado por: a razão do produto da permeabilidade magnética no vácuo pela corrente pelo produto de 2 pelo raio da espira. A única diferença dessa equação para a do campo magnético em um fio, é que essa não possui a constante PI no denominador.
 
+Um solenóide ou bobina é basicamente um cilindro enrolado por um fio. Como resultado, é quase como se tivesse vários aneis (ou espiras circulares) enrolados em um tubo cilíndrico. São várias espiras enroladas em um tubo, em síntese.
+
+O campo magnético resultante de todas as espiras circulares envolvidas no solenóide - e o campo dentro da bobina é praticamente uniforme. Para descobrir a direção e o sentido do campo magnético de um solenóide, basta aplicar a regra da mão direita em uma de suas espiras e descobrir o sentido do campo magnético dela. 
+
+O campo magnético no interior do solenóide é aproximadamente uniforme e é dado por: o produto da permeabilidade magnética do vácuo pela corrente elétrica que passa por ele, e pela densidade de espiras, que é o número de espiras dividido pelo comprimento do solenóide. A mesma corrente que passa por uma espira, passa por todas as outras - ela é a mesma para o solenóide todo.
+
 O campo elétrico é uma grandeza vetorial, e mede a força elétrica, por unidade de carga, que uma carga de prova positiva sente ao ser colocada naquele ponto. A unidade de medida no S.I é newton/coulomb (N/C). 
 
 É uma grandeza vetorial que aponta na mesma direção e sentido que a força elétrica sentida por uma carga de prova positiva. Essas cargas recebem o adjetivo 'prova' porque elas são colocadas ali para provar que uma determinada grandeza existe - nesse caso, o campo elétrico. Com essa constatação, podemos dizer que que uma carga positiva gera um campo que 'sai' dela, e uma carga negativa gera um campo que 'entra' na carga negativa. 
