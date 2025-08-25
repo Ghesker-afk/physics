@@ -99,3 +99,21 @@ func CalculateMagneticFieldForWire(current, distance float64) float64 {
 
 	return numerator / denominator
 }
+
+// Parâmetros:
+// float64 current: corrente elétrica que passa pela espira em ampere (A)
+// float64 radius: raio da espira circular (R) em metros (m)
+func CalculateMagneticFieldLoop(current, radius float64) float64 {
+	return (MagneticPermeabilityOfVacuum * current) / (2 * radius)
+}
+
+// Parâmetros:
+// float64 current: corrente elétrica que passa pelo solenóide em ampere (A)
+// int spiresNumber: número de espiras presente no solenóide.
+// float64 length: comprimento do solenóide em metros (m)
+func CalculateMagneticFieldForSolenoid(current, length float64, spiresNumber int) float64 {
+	// Calcula a densidade de espiras por unidade de comprimento (n)
+	n := float64(spiresNumber) / length
+
+	return MagneticPermeabilityOfVacuum * n * current
+}
