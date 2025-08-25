@@ -30,6 +30,10 @@ Em um fio longo e retilíneo, as linhas de campo são circunferências concêntr
 
 O módulo do campo magnético gerado por uma corrente elétrica passando por um fio é igual ao produto da corrente elétrica pela constante chamada permeabilidade magnética do vácuo (e tem a ver com as propriedades magnéticas do meio, e no S.I é o produto de 4, constante PI e 10 elevado a -7), dividido pelo produto de 2, a constante matemática PI e a distância do campo magnético do fio (lembre-se que as linhas de campos são circunferenciais). Com essa equação, percebemos que quanto maior a corrente, mais intenso é o campo magnético!
 
+Para uma espira circular (que é como se fosse um fio adequado ao formato de uma circunferência), a regra da mão direta continua valendo para descobrir o sentido e a direção do campo magnético gerado por ela: dedão alinhado com a corrente, e os demais dedos indicando o sentido do campo. As linhas de campo magnético se assemelham muito ao campo magnético de um imã.
+
+A espira circular funciona realmente como um imã, podendo até existir atração ou repulsão entre um imã e uma espira, dependendo do alinhamento dos polos norte e sul. O módulo do campo magnético no centro da espira é dado por: a razão do produto da permeabilidade magnética no vácuo pela corrente pelo produto de 2 pelo raio da espira. A única diferença dessa equação para a do campo magnético em um fio, é que essa não possui a constante PI no denominador.
+
 O campo elétrico é uma grandeza vetorial, e mede a força elétrica, por unidade de carga, que uma carga de prova positiva sente ao ser colocada naquele ponto. A unidade de medida no S.I é newton/coulomb (N/C). 
 
 É uma grandeza vetorial que aponta na mesma direção e sentido que a força elétrica sentida por uma carga de prova positiva. Essas cargas recebem o adjetivo 'prova' porque elas são colocadas ali para provar que uma determinada grandeza existe - nesse caso, o campo elétrico. Com essa constatação, podemos dizer que que uma carga positiva gera um campo que 'sai' dela, e uma carga negativa gera um campo que 'entra' na carga negativa. 
